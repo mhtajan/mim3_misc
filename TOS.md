@@ -26,7 +26,7 @@ You agree not to:
 - The Bot’s functionality, code, and any proprietary content are owned by siopao_1039 and are protected by applicable laws. You may not use, distribute, or replicate the Bot’s content without express permission.
 
 ## 6. Privacy Policy
-Your use of the Bot is also governed by our Privacy Policy, which can be found at [Insert Link to Privacy Policy].
+Your use of the Bot is also governed by our Privacy Policy, which can be found at [(https://github.com/mhtajan/mim3_misc/blob/main/privpol.md)].
 
 ## 7. Disclaimer of Warranties
 The Bot is provided "as is" and "as available." siopao_1039 disclaims all warranties, express or implied, including but not limited to merchantability, fitness for a particular purpose, and non-infringement. The Bot may be subject to outages or changes without prior notice.
